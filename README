@@ -1,0 +1,6 @@
+* pre-commit : git hook for pylint to check code before any commit
+* pylintrc : modified config in order to be less strict and to work with our basecode
+
+* post-commit : regenerate tags after a commit in git
+* post-merge : regenerate tags after a merge in git
+* post-checkout : regenerate tags after a checkout in git
