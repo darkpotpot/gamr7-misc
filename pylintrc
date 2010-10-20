@@ -275,7 +275,7 @@ int-import-graph=
 max-line-length=100
 
 # Maximum number of lines in a module
-max-module-lines=500
+max-module-lines=200
 
 # String used as indentation unit. This is usually " " (4 spaces) or "\t" (1
 # tab).
