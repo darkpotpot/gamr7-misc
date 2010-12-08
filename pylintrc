@@ -13,7 +13,7 @@
 
 # Python code to execute, usually for sys.path manipulation such as
 # pygtk.require().
-init-hook=import context;import pandac.PandaModules;import gamr7_lib.surface_editor.cpolicies.modules.policy_base;from gamr7_lib.surface_editor.cpolicies.modules.grid import ObjCaseGrid
+init-hook=import context;import pandac.PandaModules;import gamr7_lib.surface_editor.cpolicies.modules.policy_base;from gamr7_lib.surface_editor.cpolicies.modules.grid import ObjCaseGrid;import webkit
 # Profiled execution.
 profile=no
 
