@@ -185,7 +185,7 @@ dummy-variables-rgx=_|dummy
 
 # List of additional names supposed to be defined in builtins. Remember that
 # you should avoid to define new builtins when possible.
-additional-builtins=logger,render,base,taskMgr,run,camera,loader
+additional-builtins=logger,render,base,taskMgr,run,camera,loader,aspect2d,messenger
 
 # checks for :
 # * methods without self as first argument
