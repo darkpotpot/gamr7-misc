@@ -4,6 +4,8 @@ import os
 import git
 import pylint
 import pylint.lint as linter
+import warnings
+warnings.simplefilter("ignore",DeprecationWarning)
 
 def main(args):
    repo = git.Repo(os.getcwd())
